@@ -1,0 +1,1 @@
+A hardware device that modulates and demodulates signals. It converts the incoming physical protocols of an ISP (coaxial cable or telephone lines) into an Ethernet signal used by local home routers.
